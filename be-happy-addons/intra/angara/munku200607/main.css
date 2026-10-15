@@ -1,0 +1,201 @@
+H1 {
+	PADDING-RIGHT: 1.5ex; PADDING-LEFT: 1.5ex; PADDING-BOTTOM: 0.3ex; MARGIN: 0px 2em; FONT: bold 12pt Arial, sans-serif; COLOR: #0000cc; PADDING-TOP: 0.3ex; LETTER-SPACING: 1pt; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+H1.pagetitle {
+	PADDING-RIGHT: 1.5ex; PADDING-LEFT: 1.5ex; PADDING-BOTTOM: 0.3ex; MARGIN: 0px 2em; FONT: bold 12pt Arial, sans-serif; COLOR: #0000cc; PADDING-TOP: 0.3ex; LETTER-SPACING: 1pt; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+H2 {
+	MARGIN: 3ex 0px 1ex; FONT: bold 12pt Verdana, sans-serif; COLOR: #003366
+}
+H3 {
+	MARGIN: 3ex 0px 1ex; FONT: bold 11pt Verdana, sans-serif; COLOR: #003366
+}
+H4 {
+	MARGIN: 3ex 0px 2ex; FONT: bold 11pt Verdana, sans-serif; COLOR: #0371d8; TEXT-ALIGN: center
+}
+H5 {
+	MARGIN: 3ex 0px 1ex; FONT: bold 10pt Verdana, sans-serif; COLOR: #003366
+}
+TABLE.lst CAPTION {
+	PADDING-RIGHT: 1ex; PADDING-LEFT: 1ex; FONT-WEIGHT: bold; PADDING-BOTTOM: 2ex; COLOR: #065695; PADDING-TOP: 2ex
+}
+TABLE.lst TR TD {
+	PADDING-RIGHT: 1ex; PADDING-LEFT: 1ex; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.lst TR TH {
+	PADDING-RIGHT: 1ex; PADDING-LEFT: 1ex; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.lst TR.r1 {
+	BACKGROUND-COLOR: #f4f4f4
+}
+TABLE.lst TR.r2 {
+	BACKGROUND-COLOR: #d9e9f9
+}
+TABLE.lst TR.r0 TH {
+	BORDER-BOTTOM: #dddddd 1px solid
+}
+TABLE.lst TR.r1 TH {
+	BORDER-TOP: #ffffff 1px solid
+}
+TABLE.lst TR.r2 TH {
+	BORDER-TOP: #ffffff 1px solid
+}
+TABLE.lst TR.r0 TD {
+	BORDER-BOTTOM: #dddddd 1px solid
+}
+TABLE.lst TR.r1 TD {
+	BORDER-TOP: #ffffff 1px solid
+}
+TABLE.lst TR.r2 TD {
+	BORDER-TOP: #ffffff 1px solid
+}
+TABLE.lst TR.dash TD {
+	PADDING-RIGHT: 0px; BORDER-TOP: #bbbbbb 1px dashed; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+TABLE.pic-lf {
+	FLOAT: left; MARGIN: 4px 8px 4px 0px
+}
+TABLE.pic-lf TD {
+	PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; TEXT-ALIGN: left
+}
+TABLE.pic-lf TD A IMG {
+	BORDER-RIGHT: #333344 1px solid; BORDER-TOP: #333344 1px solid; DISPLAY: block; BORDER-LEFT: #333344 1px solid; BORDER-BOTTOM: #333344 1px solid
+}
+TABLE.pic-lf TD.note {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; FONT: 11px Verdana, sans-serif; COLOR: #354f8a; PADDING-TOP: 0px
+}
+TABLE.pic-rt {
+	FLOAT: right; MARGIN: 4px 0px 4px 8px
+}
+TABLE.pic-rt TD {
+	PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; TEXT-ALIGN: right
+}
+TABLE.pic-rt TD A IMG {
+	BORDER-RIGHT: #333344 1px solid; BORDER-TOP: #333344 1px solid; DISPLAY: block; BORDER-LEFT: #333344 1px solid; BORDER-BOTTOM: #333344 1px solid
+}
+TABLE.pic-rt TD.note {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; FONT: 11px Verdana, sans-serif; COLOR: #354f8a; PADDING-TOP: 0px
+}
+TABLE.pic-cn {
+	MARGIN: 4px
+}
+TABLE.pic-cn TD {
+	PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; TEXT-ALIGN: center
+}
+TABLE.pic-cn TD A IMG {
+	BORDER-RIGHT: #333344 1px solid; BORDER-TOP: #333344 1px solid; DISPLAY: block; BORDER-LEFT: #333344 1px solid; BORDER-BOTTOM: #333344 1px solid
+}
+TABLE.pic-cn TD.note {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; FONT: 11px Verdana, sans-serif; COLOR: #666699; PADDING-TOP: 0px
+}
+INPUT.btn {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 1ex; PADDING-LEFT: 1ex; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 0px; FONT: 8pt Verdana, sans-serif; COLOR: #000033; PADDING-TOP: 0px; BACKGROUND-COLOR: #cccccc; BORDER-RIGHT-WIDTH: 1px
+}
+BUTTON {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 1ex; PADDING-LEFT: 1ex; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 0px; FONT: 8pt Verdana, sans-serif; COLOR: #000033; PADDING-TOP: 0px; BACKGROUND-COLOR: #cccccc; BORDER-RIGHT-WIDTH: 1px
+}
+INPUT.txt {
+	BORDER-RIGHT: #a896e6 1px solid; BORDER-TOP: #a896e6 1px solid; PADDING-LEFT: 2px; FONT: 10pt Verdana, sans-serif; BORDER-LEFT: #a896e6 1px solid; COLOR: #003399; BORDER-BOTTOM: #a896e6 1px solid; BACKGROUND-COLOR: #fffffb
+}
+TEXTAREA {
+	BORDER-RIGHT: #a896e6 1px solid; BORDER-TOP: #a896e6 1px solid; PADDING-LEFT: 2px; FONT: 10pt Verdana, sans-serif; BORDER-LEFT: #a896e6 1px solid; COLOR: #003399; BORDER-BOTTOM: #a896e6 1px solid; BACKGROUND-COLOR: #fffffb
+}
+SELECT {
+	BORDER-RIGHT: #a896e6 1px solid; BORDER-TOP: #a896e6 1px solid; PADDING-LEFT: 2px; FONT: 10pt Verdana, sans-serif; BORDER-LEFT: #a896e6 1px solid; COLOR: #003399; BORDER-BOTTOM: #a896e6 1px solid; BACKGROUND-COLOR: #fffffb
+}
+DIV.clrb {
+	CLEAR: both; OVERFLOW: hidden; HEIGHT: 1px
+}
+DIV.news {
+	CLEAR: both; MARGIN: 0px 0px 8px
+}
+H2.newsHead {
+	CLEAR: right; PADDING-RIGHT: 6px; PADDING-LEFT: 8px; PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: bold 9pt Verdana, sans-serif; COLOR: #0033cc; PADDING-TOP: 2px; BORDER-BOTTOM: #aaaaff 1px solid; BACKGROUND-COLOR: #d6e9ff; TEXT-ALIGN: left
+}
+H2.newsHead DIV.date {
+	MARGIN-TOP: 1px; PADDING-LEFT: 8px; FLOAT: right; FONT: 8pt Verdana, sans-serif; COLOR: #777799
+}
+H2.newsHead A {
+	COLOR: #0033cc
+}
+H2.newsHead A:visited {
+	COLOR: #0033cc
+}
+IMG.newspic {
+	FLOAT: left; MARGIN: 4px 8px 2px 0px
+}
+DIV.newsText {
+	MARGIN: 2px 0px 0px 4px; FONT: 9pt Verdana, sans-serif
+}
+DIV.newsOrig {
+	CLEAR: both; FONT-SIZE: 8pt; MARGIN: 2px 4px 0px 0px; COLOR: #777799; WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+TABLE.phtd {
+	
+}
+TABLE.phtd TR TD.frm {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 6px; BACKGROUND: #eeeeee; PADDING-BOTTOM: 6px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #cccccc 1px solid
+}
+TABLE.phtd TR TD A IMG {
+	BORDER-RIGHT: #aaaaaa 1px inset; BORDER-TOP: #aaaaaa 1px inset; DISPLAY: block; MARGIN: 1px; BORDER-LEFT: #aaaaaa 1px inset; BORDER-BOTTOM: #aaaaaa 1px inset
+}
+DIV.bar1 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 8px; PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: bold 9pt Verdana, sans-serif; COLOR: #0033cc; PADDING-TOP: 2px; BACKGROUND-COLOR: #efefef; TEXT-ALIGN: left
+}
+DIV.bar2 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 8px; PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: bold 9pt Verdana, sans-serif; COLOR: #0033cc; PADDING-TOP: 2px; BACKGROUND-COLOR: #d6e9ff; TEXT-ALIGN: left
+}
+.brd1 {
+	BORDER-RIGHT: #cfcfcf 1px solid; BORDER-TOP: #cfcfcf 1px solid; BORDER-LEFT: #cfcfcf 1px solid; BORDER-BOTTOM: #cfcfcf 1px solid
+}
+.brd2 {
+	BORDER-RIGHT: #aaaaff 1px solid; BORDER-TOP: #aaaaff 1px solid; BORDER-LEFT: #aaaaff 1px solid; BORDER-BOTTOM: #aaaaff 1px solid
+}
+.brd1top {
+	BORDER-TOP: #cfcfcf 1px solid
+}
+.brd1bot {
+	BORDER-BOTTOM: #cfcfcf 1px solid
+}
+.brd2top {
+	BORDER-TOP: #aaaaff 1px solid
+}
+.brd2bot {
+	BORDER-BOTTOM: #aaaaff 1px solid
+}
+TABLE.epig {
+	MARGIN: 0px 0px 4px
+}
+TABLE.epig TR TD {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 16px; FONT-SIZE: 8pt; PADDING-BOTTOM: 3px; COLOR: #666699; PADDING-TOP: 3px
+}
+DIV.sbar {
+	CLEAR: left; BORDER-RIGHT: #aaaaff 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #aaaaff 1px solid; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 4px; MARGIN: 0px 4px 8px 0px; WIDTH: 190px; PADDING-TOP: 1px; BORDER-BOTTOM: #aaaaff 1px solid
+}
+DIV.sbarTit {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; BACKGROUND: #bbddff; PADDING-BOTTOM: 2px; FONT: 13px Verdana, sans-serif; COLOR: #332277; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+DIV.sbarLbl {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 1px 6px 0px 4px; COLOR: #0066aa
+}
+DIV.sbarVal {
+	MARGIN: 0px 6px 1px 16px; TEXT-ALIGN: right
+}
+DIV.sbarTxt {
+	MARGIN: 0px 25px 0px 215px
+}
+H1.sbarH1 {
+	PADDING-RIGHT: 1.5ex; PADDING-LEFT: 1.5ex; PADDING-BOTTOM: 0.3ex; MARGIN: 0px 0px 1em; FONT: bold 12pt Arial, sans-serif; COLOR: #0000cc; PADDING-TOP: 0.3ex; LETTER-SPACING: 1pt; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+OL.ls {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1ex 0ex; PADDING-TOP: 0px
+}
+OL.ls LI {
+	MARGIN: 2px 0px 2px 4ex
+}
+UL.ls {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1ex 0ex; PADDING-TOP: 0px
+}
+UL.ls LI {
+	MARGIN: 2px 0px 2px 3ex
+}
